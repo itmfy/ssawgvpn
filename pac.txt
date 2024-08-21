@@ -115,7 +115,6 @@ var __RULES__ = [
 "||wsj.com",
 "||x.com",
 "||zona.media",
-//YouTube
 "||youtube.com",
 "||googlevideo.com",
 "||ytimg.com",
